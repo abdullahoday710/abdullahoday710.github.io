@@ -1,8 +1,7 @@
 # main text of home
-title: Abdullah Oday
-bio: A software engineer that loves to make and play video games.
+title: Void Blog
+bio: Hey there, My name is Abdullah and I am a software engineer that loves to make and play games, And I write posts about it from time to time, Check my blog below and enjoy :)
 
-# twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
@@ -42,7 +41,7 @@ github: abdullahoday710
 # email: myemail@gmail.com
 
 authors:
-  johndoe:
+  abdullah:
     name: Abdullah Oday
     bio: A software engineer that loves to make and play video games.
     external-image: false
@@ -70,7 +69,7 @@ read-time: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+#post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
