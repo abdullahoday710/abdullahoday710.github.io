@@ -2,7 +2,7 @@
 title: "Packing bits for multiplayer games"
 layout: post
 date: 2024-11-5 10:48 PM
-image: /assets/images/markdown.jpg
+# image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - gamedev
