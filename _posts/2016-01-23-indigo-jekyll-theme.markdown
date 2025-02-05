@@ -1,4 +1,4 @@
----
+<!-- ---
 title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
 date: 2016-01-23 22:10
@@ -31,4 +31,4 @@ What has inside?
 ---
 
 [Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues). -->
